@@ -1,23 +1,43 @@
-# 👋 Hi, I'm Binh Ca
+# 👋 Hi, I'm Bình 
 
 🎓 Final-year Computer Science student  
-💻 Interested in Web Development | Machine Learning | Computer Vision  
-🌱 Currently learning Django, React, and AI research  
+💻 Passionate about Web Development, Machine Learning, and Computer Vision  
+🌱 Currently learning Django, React, and AI research (Diffusion models, Video Anomaly Detection)  
 
 ---
 
 ## 🚀 Projects
-- [Reddit Clone](https://github.com/yourusername/reddit-clone) – Django + HTML/CSS/JS  
-- [Panorama Stitching](https://github.com/yourusername/panorama-stitching) – Computer Vision project  
-- [Video Anomaly Detection](https://github.com/yourusername/vad-diffusion) – Research with diffusion models  
+
+### 🔹 Web & Application
+- [**Reddit Clone**](https://github.com/tbinh94/Reddit-Clone) – Django + HTML/CSS/JS, a Reddit-like discussion platform  
+- [**DevCove**](https://github.com/tbinh94/DevCove) – A hub for code reviewing and collaboration (in progress)  
+- [**Movie Recommendation**](https://github.com/tbinh94/Movie_Recommendation) – Flask-based movie recommendation system with HTML/CSS/JS frontend  
+
+### 🔹 Academic & Coursework
+- [**FoodOrdering-FlavorHaven**](https://github.com/tbinh94/FoodOrdering-FlavorHaven) – C# database project for managing food orders  
+- [**WeatherForecast**](https://github.com/tbinh94/WeatherForecast) – Simple C# weather forecast app  
+- [**SnakeGame**](https://github.com/tbinh94/SnakeGame) – Classic Snake game built with Java  
+
+---
+
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tbinh94&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tbinh94&layout=compact&theme=radical)  
 
 ---
 
 ## 📫 Contact
-- Email: youremail@example.com  
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 📧 Email: *thanhbinh2k4@gmail.com*  
+- 💼 LinkedIn: [linkedin.com/in/ca-diep-thanh-binh](https://linkedin.com/in/ca-diep-thanh-binh)  
