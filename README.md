@@ -43,9 +43,10 @@ I am actively reproducing and extending **Dual-Conditioned Motion Diffusion** to
 
 ---
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tbinh94&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tbinh94&layout=compact&theme=radical)  
+## 📊 GitHub Overview
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tbinh94&layout=compact&theme=radical)
+![GitHub Snake](https://github.com/tbinh94/tbinh94/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
