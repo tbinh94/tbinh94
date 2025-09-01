@@ -20,7 +20,6 @@
 
 ## 🧪 Research Highlight — Dual-Conditioned Motion Diffusion (DCMD)
 I am actively reproducing and extending **Dual-Conditioned Motion Diffusion** to achieve higher **AUC-ROC** than the original paper.
-
 - 🔗 Code base: [guijiejie/Dual-Conditioned-Motion-Diffusion](https://github.com/guijiejie/Dual-Conditioned-Motion-Diffusion) (working on a fork and experiment branches)
 - 🎯 Goal: Improve detection **AUC** via better conditioning, training with UAD, and robust evaluation.
 - 🔍 Focus:
@@ -45,8 +44,6 @@ I am actively reproducing and extending **Dual-Conditioned Motion Diffusion** to
 
 ## 📊 GitHub Overview
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tbinh94&layout=compact&theme=radical)
-![GitHub Snake](https://github.com/tbinh94/tbinh94/blob/output/github-contribution-grid-snake.svg)
-
 
 ---
 
