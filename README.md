@@ -18,6 +18,17 @@
 - [**WeatherForecast**](https://github.com/tbinh94/WeatherForecast) – Simple C# weather forecast app  
 - [**SnakeGame**](https://github.com/tbinh94/SnakeGame) – Classic Snake game built with Java  
 
+## 🧪 Research Highlight — Dual-Conditioned Motion Diffusion (DCMD)
+I am actively reproducing and extending **Dual-Conditioned Motion Diffusion** to achieve higher **AUC-ROC** than the original paper.
+
+- 🔗 Code base: [guijiejie/Dual-Conditioned-Motion-Diffusion](https://github.com/guijiejie/Dual-Conditioned-Motion-Diffusion) (working on a fork and experiment branches)
+- 🎯 Goal: Improve detection **AUC** via better conditioning, training with UAD, and robust evaluation.
+- 🔍 Focus:
+  - Loss & optimization: scheduler, learning rate, gradient clipping, weight decay
+  - Conditioning: pose/motion cues, temporal window, noise schedule
+  - Data: preprocessing, augmentation, train/val split consistency
+  - Post-processing: score smoothing, per-clip normalization
+  - Reproducibility: fixed seeds, deterministic ops
 ---
 
 ## 🛠️ Tech Stack
