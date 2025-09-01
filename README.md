@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Binh Ca
 
-<!--
-**tbinh94/tbinh94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year Computer Science student  
+💻 Interested in Web Development | Machine Learning | Computer Vision  
+🌱 Currently learning Django, React, and AI research  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- [Reddit Clone](https://github.com/yourusername/reddit-clone) – Django + HTML/CSS/JS  
+- [Panorama Stitching](https://github.com/yourusername/panorama-stitching) – Computer Vision project  
+- [Video Anomaly Detection](https://github.com/yourusername/vad-diffusion) – Research with diffusion models  
+
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+---
+
+## 📫 Contact
+- Email: youremail@example.com  
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
